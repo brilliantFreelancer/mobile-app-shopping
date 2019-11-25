@@ -1,0 +1,15 @@
+add flatlist to Home like Product screen
+separate styles
+button functionality in Home
+state for flatlist and state in redux ?
+---------
+i build a release (was done following facebook guide) =>
+problems:
+1.some dictation(solved)
+2.lag
+3.some bad margins specially in drawer (Hamed... and Mobile... was corrected cause i set it's fontsize with hp and it's false => wp)
+4.rough page changing !!
+5.not having splash
+6.(eleman ha tu shop ham taraz  nabud chon height haye mokhtalef zade bidam) (solved)
+7.not having rtl => menuButton go to right side and some other right sides!
+8.not adding font family
